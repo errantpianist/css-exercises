@@ -51,6 +51,7 @@ li {
 .sidebar {
   flex: 0 0 300px;
   background: royalblue;
+  box-sizing: border-box;
   
 }
 

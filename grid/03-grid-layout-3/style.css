@@ -47,12 +47,7 @@ div.logo {
 }
 
 .sidebar {
-  background-color: #FF7755;
-  grid-column: span 1;
-  grid-row: span 2;
-  display: grid;
-  grid-auto-flow: repeat(4, 1fr);
-  gap: 50px;
+  background-color: #C50208;
 }
 
 .sidebar .photo {
@@ -73,8 +68,6 @@ div.logo {
 
 .nav {
   background-color: #FF7755;
-  
-
 }
 
 .nav ul {
@@ -126,5 +119,5 @@ div.logo {
 
 .footer p {
   font-size: 13px;
-  font-weight: normal;  
+  font-weight: normal;
 }
